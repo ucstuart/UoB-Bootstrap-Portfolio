@@ -197,53 +197,53 @@ nav li
 
 #Port1 {
   grid-area: Port1;
-  background-image: url("../images/ucreseller.PNG");
+  background-image: url("../IMG/ucreseller.PNG");
 }
 
 #Port2
 {
     grid-area: Port2;
-    background-image: url("../images/refactor.PNG");
+    background-image: url("../IMG/refactor.PNG");
 }
 
 #Port3
 {
     grid-area: Port3;
-    background-image: url("../images/portfolio.PNG");
+    background-image: url("../IMG/portfolio.PNG");
 }
 
 #Port4
 {
     grid-area: Port4;
-    background-image: url("../images/evantoelements/bird1.jpg");
+    background-image: url("../IMG/evantoelements/bird1.jpg");
 }
 
 #Port5 {
   grid-area: Port5;
-  background-image: url("../images/evantoelements/dev1.jpg");
+  background-image: url("../IMG/evantoelements/dev1.jpg");
 }
 
 #Port6
 {
     grid-area: Port6;
-    background-image: url("../images/evantoelements/bird2.jpg");
+    background-image: url("../IMG/evantoelements/bird2.jpg");
 }
 
 #Port7
 {
     grid-area: Port7;
-    background-image: url("../images/evantoelements/dev2.jpg");
+    background-image: url("../IMG/evantoelements/dev2.jpg");
 }
 
 #Port8
 {
     grid-area: Port8;
-    background-image: url("../images/evantoelements/bird3.jpg");
+    background-image: url("../IMG/evantoelements/bird3.jpg");
 }
 
 #Port9 {
   grid-area: Port9;
-  background-image: url("../images/evantoelements/dev3.jpg");
+  background-image: url("../IMG/evantoelements/dev3.jpg");
 }
 
 /* Contact Me Section */
