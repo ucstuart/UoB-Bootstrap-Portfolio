@@ -72,7 +72,7 @@ h3
 
 h4
   {
-    font-size: 1em;
+    font-size: 1.1em;
     font-weight: bold;
     text-align: left;
     margin: 0;
@@ -146,7 +146,7 @@ nav li
 
 /* Portfolio Section */
 
-#layout-grid
+/* #layout-grid
 {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
@@ -157,7 +157,7 @@ nav li
         "Port2 Port3 Port4 Port5"
         "Port6 Port7 Port8 Port9"
     ;
-}
+} */
 
 .Portfolio
 {
@@ -167,9 +167,10 @@ nav li
     background-repeat: no-repeat;
     background-size: cover;
     /* justify-self: stretch; */
-    margin-bottom: 15px;
-    margin-left: 5px;
-    margin-right: 5px;
+    /* margin-bottom: 15px; */
+    
+    /* margin-left: 5px;
+    margin-right: 5px; */
   
 }
 
@@ -196,54 +197,77 @@ nav li
 /* Images for Projects */
 
 #Port1 {
-  grid-area: Port1;
+  /* grid-area: Port1; */
   background-image: url("../IMG/ucreseller.PNG");
-}
+  border: 3px solid #ff0385;
+  padding: 0%;
+ }
 
 #Port2
 {
-    grid-area: Port2;
+    /* grid-area: Port2; */
     background-image: url("../IMG/refactor.PNG");
+    border: 3px solid #ff0385;
+    padding: 0%;
 }
 
 #Port3
 {
-    grid-area: Port3;
+    /* grid-area: Port3; */
     background-image: url("../IMG/portfolio.PNG");
+    border: 3px solid #ff0385;
+    padding: 0%;
 }
 
 #Port4
 {
-    grid-area: Port4;
+    /* grid-area: Port4; */
     background-image: url("../IMG/evantoelements/bird1.jpg");
+    border: 3px solid #ff0385;
+    padding: 0%;
 }
 
 #Port5 {
-  grid-area: Port5;
+  /* grid-area: Port5; */
   background-image: url("../IMG/evantoelements/dev1.jpg");
+  border: 3px solid #ff0385;
+  padding: 0%;
+
 }
 
 #Port6
 {
-    grid-area: Port6;
+    /* grid-area: Port6; */
     background-image: url("../IMG/evantoelements/bird2.jpg");
+    border: 3px solid #ff0385;
+    padding: 0%;
+
 }
 
 #Port7
 {
-    grid-area: Port7;
+    /* grid-area: Port7; */
     background-image: url("../IMG/evantoelements/dev2.jpg");
+    border: 3px solid #ff0385;
+    padding: 0%;
+
 }
 
 #Port8
 {
-    grid-area: Port8;
+    /* grid-area: Port8; */
     background-image: url("../IMG/evantoelements/bird3.jpg");
+    border: 3px solid #ff0385;
+    padding: 0%;
+
 }
 
 #Port9 {
-  grid-area: Port9;
+  /* grid-area: Port9; */
   background-image: url("../IMG/evantoelements/dev3.jpg");
+  border: 3px solid #ff0385;
+  padding: 0%;
+
 }
 
 /* Contact Me Section */
